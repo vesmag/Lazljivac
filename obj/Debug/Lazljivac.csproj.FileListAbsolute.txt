@@ -1,0 +1,9 @@
+C:\Users\vmagjar\Desktop\bla\bin\Debug\Projekt251.exe.config
+C:\Users\vmagjar\Desktop\bla\bin\Debug\Projekt251.exe
+C:\Users\vmagjar\Desktop\bla\bin\Debug\Projekt251.pdb
+C:\Users\vmagjar\Desktop\bla\obj\Debug\Lazljivac.csprojResolveAssemblyReference.cache
+C:\Users\vmagjar\Desktop\bla\obj\Debug\Projekt251.MainWindow.resources
+C:\Users\vmagjar\Desktop\bla\obj\Debug\Projekt251.Properties.Resources.resources
+C:\Users\vmagjar\Desktop\bla\obj\Debug\Lazljivac.csproj.GenerateResource.Cache
+C:\Users\vmagjar\Desktop\bla\obj\Debug\Projekt251.exe
+C:\Users\vmagjar\Desktop\bla\obj\Debug\Projekt251.pdb
