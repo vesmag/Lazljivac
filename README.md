@@ -1,7 +1,7 @@
 # Lažljivac
 #### Igra Lažljivac napravljena u C#.
 
-Igrači naizmijence bacaju karte na hrpu licem prema dolje govoreći pritom boju svoje karte (što je moguće i laž).
+Igrači naizmjence bacaju karte na hrpu licem prema dolje govoreći pritom boju svoje karte (što je moguće i laž).
 Nakon svakog bacanja karte, protivnik može okrenuti prvu kartu na hrpi govoreći "Lažeš".
 Ako je igrač zaista lagao, dobiva sve karte na hrpi; ako nije, karte idu njegovom protivniku.
 
